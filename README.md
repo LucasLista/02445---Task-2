@@ -8,7 +8,7 @@ ConsistencyErrors.pkl contains a python dictionary with all the errors gotten fr
 
 ConsistencyTesterFunctions.py and BestModelFinders.py contain functions used in the notebooks. The difference between the two code files is only that the random state was removed in ConsistencyTesterFunctions.py. It was easier to do it like this.
 
-Data analysis.ipynb (sorry about the space), contains the main data analysis for the report.\\ConsistencyTester.ipynb contains the code for consistency analysis of the models.
+Data analysis.ipynb (sorry about the space), contains the main data analysis for the report.\n ConsistencyTester.ipynb contains the code for consistency analysis of the models.
 
 
 
