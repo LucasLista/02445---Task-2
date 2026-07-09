@@ -2,7 +2,7 @@
 
 Individual assignment for the course **02445 Project in Statistical Evaluation** (DTU), Spring 2024.
 
-The [report](Individual_assignment.pdf) investigates whether heart-rate summary
+The [report](report.pdf) investigates whether heart-rate summary
 statistics can predict a participant's self-reported frustration level. Five
 models (an artificial neural network, random forest, k-nearest neighbours,
 ridge regression, and logistic regression) are compared against a mean baseline
